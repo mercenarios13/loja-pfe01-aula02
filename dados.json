@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians 24/25 Jogador Nike",
+        "preco":699.99,
+        "imagem":"https://static.shoptimao.com.br/produtos/camisa-corinthians-i-2425-sn-jogador-nike-masculina/28/JD8-7041-028/JD8-7041-028_zoom1.jpg?ts=1718913213.jpg"
+    },
+    {
+        "id":2,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians Retrô",
+        "preco":179.90,
+        "imagem":"https://images.tcdn.com.br/img/img_prod/311840/camisa_corinthians_retro_infantil_preta_e_branca_147513_1_e1e917f5e1abbe0abc40361005976531.jpg"
+    },
+    {
+        "id":3,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians 2025 Nike Pré-jogo Academy",
+        "preco":329.99,
+        "imagem":"https://bayard.vtexassets.com/arquivos/ids/3394248-800-auto?v=638721378264400000&width=800&height=auto&aspect=true"
+    },
+    {
+        "id":4,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa treino  23/24",
+        "preco":249.90,
+        "imagem":"https://images.tcdn.com.br/img/img_prod/934235/camisa_nike_corinthians_treino_2024_2025_6093_1_3f2c8d22e932f00936d3bcad77154f84.jpg"
+    },
+    {
+        "id":5,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Masculina Corinthians Nike 21/22",
+        "preco":249.90,
+        "imagem":"https://sportbras.vtexassets.com/arquivos/ids/1165781/CAMISA-MASCULINA-CORINTHIANS-NIKE-2021-2022-JOGADOR--0.jpg?v=638621903200600000"
+    },
+    {
+        "id":6,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians Nike 1 23/24",
+        "preco":323.90,
+        "imagem":"https://cdn.awsli.com.br/600x450/561/561579/produto/212757134/600b60ec-d2d1-4fe2-b6e8-71b9ccbd6050-ycsmhv.jpg"
+    },
+    {
+        "id":7,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians infantil Treino 25/26",
+        "preco":218.49,
+        "imagem":"https://static.shoptimao.com.br/produtos/camisa-corinthians-infantil-treino-2526-nike/98/JD8-9273-198/JD8-9273-198_zoom1.jpg?ts=1736878216"
+    },
+    {
+        "id":8,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Timão 24/25 Away - Masulina",
+        "preco":229.90,
+        "imagem":"https://lojameucamisa10.com.br/cdn/shop/files/AnyConv.com__Screenshot_397_8879f35d-af4a-4866-90f5-76f50d1630b8.webp?v=1737748018"
+    },
+    {
+        "id":9,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Corinthians - Third kit (2011)",
+        "preco":85.9,
+        "imagem":"https://acdn-us.mitiendanube.com/stores/002/794/749/products/4b65c7a51-523f94d8d64af052a516832576658832-1024-1024.jpg"
+    },
+    {
+        "id":10,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians ||| 2023/24 Nike Jogador",
+        "preco":699.99,
+        "imagem":"https://imgcentauro-a.akamaihd.net/1200x1200/M11PRV2UA7.jpg"
+    },
+    {
+        "id":11,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinhians Treino 22/23 Torcedor Feminina",
+        "preco":149.99,
+        "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhp4O0G2o5JNUvIm0cSaG1xeD1tTaWHm1xg&s"
+    },
+    {
+        "id":12,
+        "produto":"Camisa do Corinthians",
+        "descricao":"Camisa Corinthians 2017 Matheus Vidotto #1 Goleiro Vermelha De Jogo",
+        "preco":799.90,
+        "imagem":"https://images.tcdn.com.br/img/img_prod/1274939/camisa_corinthians_2017_matheus_vidotto_1_de_jogo_573_1_c3cbd486f84fdeeea53b0bea4b2d8418.jpeg"
+    }
+]
